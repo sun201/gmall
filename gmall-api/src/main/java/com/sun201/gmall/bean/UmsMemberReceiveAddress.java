@@ -1,4 +1,6 @@
-package com.sun201.gmall.user.bean;
+package com.sun201.gmall.bean;
+
+import javax.persistence.Id;
 
 /**
  * Description:
@@ -8,6 +10,7 @@ package com.sun201.gmall.user.bean;
  */
 public class UmsMemberReceiveAddress {
 
+    @Id
     private Long id;
     private Long memberId;
     private String name;

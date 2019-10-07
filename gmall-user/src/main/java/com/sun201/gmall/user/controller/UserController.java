@@ -1,8 +1,8 @@
 package com.sun201.gmall.user.controller;
 
-import com.sun201.gmall.user.bean.UmsMember;
-import com.sun201.gmall.user.bean.UmsMemberReceiveAddress;
-import com.sun201.gmall.user.service.UserService;
+import com.sun201.gmall.bean.UmsMember;
+import com.sun201.gmall.bean.UmsMemberReceiveAddress;
+import com.sun201.gmall.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,6 +1,6 @@
 package com.sun201.gmall.user.mapper;
 
-import com.sun201.gmall.user.bean.UmsMember;
+import com.sun201.gmall.bean.UmsMember;
 
 import java.util.List;
 

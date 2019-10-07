@@ -1,4 +1,4 @@
-package com.sun201.gmall.user.bean;
+package com.sun201.gmall.bean;
 
 /**
  * Description:

@@ -2,7 +2,7 @@
 <!DOCTYPE mapper PUBLIC "-//MYBATICS.ORG/dtd Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.sun201.gmall.user.mapper.UserMapper">
-    <select id="getUserList" resultType="com.sun201.gmall.user.bean.UmsMember">
+    <select id="getUserList" resultType="com.sun201.gmall.bean.UmsMember">
         SELECT * FROM ums_member;
     </select>
 </mapper>
